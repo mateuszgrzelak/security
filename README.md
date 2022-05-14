@@ -1,2 +1,2 @@
-# security
-A blog about various security issues
+# Blog about security
+A blog about various security issues.
