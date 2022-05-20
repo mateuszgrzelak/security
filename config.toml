@@ -1,4 +1,4 @@
-baseurl = "https://mateuszgrzelak.github.io"
+baseurl = "https://mateuszgrzelak.github.io/security/"
 title = "Mateusz Grzelak"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
